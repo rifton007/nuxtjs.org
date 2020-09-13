@@ -171,6 +171,13 @@ When you run the dev command it will create .nuxt folder. This folder should be 
 
 </base-alert>
 
+<base-alert type="info">
+
+If you are working under a virtual machine, you can set up the host and port of your development server.
+**[How to edit host and port?](https://nuxtjs.org/faq/host-port/).**
+
+</base-alert>
+
 ### Bonus step
 
 Create a page named `fun.vue` in the `pages` directory.
